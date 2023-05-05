@@ -1,3 +1,5 @@
+Note: This project was executed as a part of CSE 260 Parallel Computation course by Bryan Chin at UC San Diego in Fall 2022.
+
 Matrix Multiplication with CUDA
 
 You will only need to edit files in src_todo folder.
